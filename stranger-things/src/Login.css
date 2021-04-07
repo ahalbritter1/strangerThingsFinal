@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@500&family=Truculenta:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Signika:wght@300&display=swap');
+
+.login__intro {
+    margin-top: 40%;
+}
+
+.login__title {
+    font-family: 'Cinzel', serif;
+    margin-bottom: 2.5%;
+}
+
+.login__description {
+    font-family: 'Signika', sans-serif;
+
+}

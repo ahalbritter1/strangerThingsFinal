@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    border: 0;
+  }
+
+#register {
+    left: 30%;
+    top: 50%;
+    position: fixed;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+#login {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
